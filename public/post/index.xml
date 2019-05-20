@@ -6,10 +6,19 @@
     <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>经过九九八十一难我终于会爬网站了</title>
+      <link>/2019/05/20/%E7%BB%8F%E8%BF%87%E4%B9%9D%E4%B9%9D%E5%85%AB%E5%8D%81%E4%B8%80%E9%9A%BE%E6%88%91%E7%BB%88%E4%BA%8E%E4%BC%9A%E7%88%AC%E7%BD%91%E7%AB%99%E4%BA%86/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/20/%E7%BB%8F%E8%BF%87%E4%B9%9D%E4%B9%9D%E5%85%AB%E5%8D%81%E4%B8%80%E9%9A%BE%E6%88%91%E7%BB%88%E4%BA%8E%E4%BC%9A%E7%88%AC%E7%BD%91%E7%AB%99%E4%BA%86/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
